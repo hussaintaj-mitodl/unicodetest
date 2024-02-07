@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "unicode-test"
+  },
+  "course_image": {
+    "content": "",
+    "website": "unicode-test"
+  },
+  "course_title": "\u30c6\u30b9\u30c8-\u30da\u30fc\u30b8",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "\u30c6\u30b9\u30c8-\u30da\u30fc\u30b8",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "unicode-test"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e543cde6-e940-4793-9f79-9d668c68aafe",
+  "site_short_id": "unicodetest"
+}
